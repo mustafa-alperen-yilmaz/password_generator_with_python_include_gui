@@ -5,7 +5,7 @@
 block_cipher = None
 
 a = Analysis(['password_generator_gui.py'],
-             pathex=['C:/Users/mayal/Desktop/password'],
+             pathex=['Your Folder Path Here'],
              binaries=[],
              datas=[],
              hiddenimports=[],
